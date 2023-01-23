@@ -4,7 +4,7 @@
 <br>
 
 - 🌱 Quero melhorar conhecimentos em Python, R e MySQL; 
-- 💬 Me chame para conversar sobre ciência de dados, Lei Geral de Proteção de Dado e direito autoral em IA;
+- 💬 Me chame para conversar sobre Ciência de Dados, Lei Geral de Proteção de Dados e problematicas de IA no Direito Autoral;
 - ⭐ Sou fã de Star Trek, Doctor Who e Superstore;
 - 🚀 Tenho formação em Ciência da Computação (2017 a 2024) e Marketing (2021 a 2023).
 
