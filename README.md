@@ -1,6 +1,8 @@
-### Olá, tudo bem? Fico feliz pelo interesse no meu perfil!
+<h3 align="center">  Boas-vindas ao meu perfil! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohtopico&label=Profile%20views&color=0e75b6&style=flat" alt="ohtopico" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ohtopico&label=Profile%20views&color=0e75b6&style=flat" alt="ohtopico" /> 
+</p>
 <br>
 
 - 🌱 Quero melhorar conhecimentos em Python, R e MySQL; 
@@ -10,10 +12,29 @@
 
 <br>
 
-<p> Você pode me encontrar nestas redes sociais: </p>
-<div> 
+<p align="center"> 
   <a href="https://www.behance.net/ohtopico" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/ohtopico" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ohtopico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://ohtopico.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></a> 
-</div>
+</p>
+
+```python
+class ohtopico:
+    def __init__(self):
+        self.name = 'Julia R. Quoos Alves'
+        self.code = {
+            'languages': ['Python', 'R', 'SQL'],
+            'pylibs': ['NumPy',  'Pandas', 'Matplotlib'],
+            'frameworks': ['Apache Spark', 'Hadoop'],
+            'databases': ['MySQL', 'PostgreSQL', 'MongoDB'],
+            'tools': ['VirtualBox', 'AWS', 'Git', 'GNU/Linux'],
+            'agile': ['Scrum']
+        }
+    def __str__(self):
+        return self.name
+if __name__ == '__main__':
+    me = ohtopico()
+```
+
+
