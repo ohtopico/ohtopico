@@ -8,7 +8,7 @@
 - 🌱 Quero melhorar conhecimentos em Python, R e MySQL; 
 - 💬 Me chame para conversar sobre Ciência de Dados, Lei Geral de Proteção de Dados e problematicas de IA no Direito Autoral;
 - ⭐ Sou fã de Star Trek, Doctor Who e Superstore;
-- 🚀 Tenho formação em Ciência da Computação (2017 a 2024), Bacharelado em Administração (2023 a 2025) e Tecnólogo em Marketing (2021 a 2023).
+- 🚀 Bacharelado em Ciência da Computação (2017 - 2024), Tecnólogo em Marketing (2021 - 2023) e Bacharelado em Administração (2023 - 2025).
 
 <br>
 
