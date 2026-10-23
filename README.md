@@ -1,44 +1,54 @@
-# 👋 Welcome to My GitHub!
+# Oi, eu sou a Júlia 👋
 
-## 📖 About me
-My name is Júlia Roberta Quoos Alves, I have 5 undergraduate degrees, a postgraduate degree in data science and big data analytics. I am passionate about data and driven by excellence.
+**Engenheira de dados e mestranda em Ciência da Computação (UFSM).**
+Transformo dados dispersos em decisões, em marketing, pessoas e educação, e pesquiso visão computacional para tecnologia assistiva.
 
-🌱 I worked as a Data Engineer Trainee at Compass UOL, where I participated in a project involving data modeling with SQL and the management of a Data Lake (S3 and EC2) to feed internal management dashboards on employee indicators.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ohtopico-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ohtopico)
+[![Site](https://img.shields.io/badge/Site-ohtopico.com.br-2E7D5B)](http://ohtopico.com.br)
 
-📊 I have experience in structuring data for Marketing and Sales areas, focusing on performance and a 360-degree view of the customer. - Social Analytics: Sentiment Analysis project for brand monitoring and engagement on Social Networks (LinkedIn and X/Twitter). - Digital Analytics: Strong knowledge and experience in structuring Google Analytics 4 (GA4) and CRM data. - Performance Media: Certified in Google Ads and with practical experience in structuring paid and owned media data, including analysis of campaigns on YouTube and TikTok.
+## Em que estou trabalhando
 
-🗣️ I've given talks on Computing, Social Networks, and Technology in the job market.
+- 🎓 **Mestrado (UFSM, defesa prevista para junho de 2027):** deep learning e visão computacional, com modelos leves (MobileNet), para auxiliar uma mochila inteligente voltada a pessoas com baixa visão ou cegas.
+- 🪙 **Reconhecimento de moedas brasileiras** por imagem, com dataset próprio e Google Cloud (em andamento).
+- 📚 **"IA pra prof":** livro com dicas de inteligência artificial para professores, com versão interativa no [meu site](http://ohtopico.com.br/ia-pra-prof).
 
-💬 In my free time, I love talking about Star Trek and Doctor Who, I edit Wikipedia, and I collect coins. Want to chat about Data? Send me a message!
+## Projetos em destaque
 
-<h2  align="center"></h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ohtopico/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+| Projeto | O que mostra |
+| --- | --- |
+| [online-retail-dataset](https://github.com/ohtopico/online-retail-dataset) | Previsão de recompra de clientes em 60 dias: limpeza, análise exploratória, segmentação RFM e comparação de modelos (melhor ROC AUC: 0,73). |
+| [moedas-brasileiras](https://github.com/ohtopico/moedas-brasileiras) | Visão computacional e ML aplicados a um dataset próprio de fotos de moedas. |
+| [state-of-data-brazil](https://github.com/ohtopico/state-of-data-brazil) | Análise de dados da pesquisa State of Data Brazil. |
 
-🔧 Experience
+## Tecnologias
 
-     Data Science:
-        Data storage, ingestion, and streaming
-        Pipeline orchestration
-        Robust data architecture design
-        Data analysis and visualization
-        Data lake construction
-        Google Cloud Certified
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-     Marketing:
-        Twitter sentiment analysis
-        Meta Certified
+**Dados:** análise exploratória, ETL, data lakes, modelagem SQL, dashboards e GA4.
+**IA:** deep learning, visão computacional, NLP e machine learning clássico.
 
-🚀 Skills and Tools
+## Trajetória
 
-    Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly
-    Data Modeling: SQL
-    Data Analysis: Exploratory Data Analysis, Statistical Analysis
-    Data Engineering: Apache Kafka, Apache Airflow, Apache Spark
-    Cloud Platforms: Microsoft Azure, AWS, Databricks, Google Cloud Plataform
-    Version Control: Git
+- **Compass UOL (2019-2020):** trainee em engenharia de dados; data lake na AWS (S3, EC2), modelagem SQL e dashboards de People Analytics.
+- **Iniciação científica (2020-2025):** três projetos de IC em IA, com coleta, análise e visualização de dados.
+- **Docência:** informática no ensino médio, oficinas para professores de matemática e projetos de extensão em inclusão digital.
+- **Formação:** Ciência da Computação, Administração, Marketing e especialização em Ciência de Dados e Big Data Analytics.
 
-<hr>
-<h3  align="center">💻 Check out my repos ⬇️ </h3>
-```
+## Certificações
+
+Google Cloud (Computing Foundations, Data Analytics, Prepare Data for ML APIs), Google Analytics e Meta Certified Digital Marketing Associate. Veja no [Credly](https://www.credly.com/users/ohtopico/).
+
+## Fora dos dados
+
+Star Trek, Doctor Who, edição na Wikipédia e coleção de moedas 🪙
+
+## Vamos conversar?
+
+Aberta a oportunidades em dados e IA, e a parcerias em dashboards e análises de marketing. Me chame pelo [LinkedIn](https://www.linkedin.com/in/ohtopico) ou pelo [site](http://ohtopico.com.br).
