@@ -33,6 +33,8 @@ Dou aula de informática e robótica e faço formação de professores. Tudo o q
 
 ## 📊 Dados abertos e outras ferramentas
 
+Os painéis interativos ficam em [juliaroberta.com/infograficos](https://juliaroberta.com/infograficos/) (Censo Escolar, BNCC em dados, famílias de línguas, clima do RS e outros), e os bastidores de cada um saem no [blog de dados](https://juliaroberta.com/blog/).
+
 | Projeto | O que faz |
 | --- | --- |
 | [**curriculo-json**](https://github.com/ohtopico/curriculo-json) `novo` | Escreva o currículo uma vez em JSON e gere a página web e o PDF, com versões diferentes para cada tipo de vaga. |
